@@ -11,7 +11,6 @@ library(mice)
 library(epiDisplay)
 library(jtools)
 library(ggstance)
-library(webshot)
 
 
 idlist= read_dta('C:/metabo_check/daicho202003_personalnum.dta')
